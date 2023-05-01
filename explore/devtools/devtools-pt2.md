@@ -1,0 +1,1 @@
+The values for num1 and num2 are read as strings. When the '+' operator is used on two strings, they both are concatenated instead of addition happening. 
